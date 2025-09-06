@@ -1,16 +1,25 @@
-# mobile_programming_0
+# Mobile Programming pt. 01
 
-A new Flutter project.
+Documentation of what happens at various stages of this repo.
 
-## Getting Started
+#### Boilerplate
 
-This project is a starting point for a Flutter application.
+![Boilerplate](https://github.com/contrapoetra/cdn/blob/main/img/2025-09-06%2023-18-24.png?raw=true)
 
-A few resources to get you started if this is your first Flutter project:
+#### Text Update
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Changed boilerplate strings with custom text.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Text update](https://github.com/contrapoetra/cdn/blob/main/img/2025-09-06%2023-23-49.png?raw=true)
+
+#### Emulated Debugging Run
+
+Building the debug app took 8.6 seconds, installing the app took 21.8 seconds, plus additional 38ms to sync some files.
+
+![Emulated run](https://github.com/contrapoetra/cdn/blob/main/img/2025-09-07%2002-49-23.png?raw=true)
+
+#### Physical Debugging Run
+
+Building the debug app took 659.3 seconds, installing it (wirelessly) took 9.4 seconds, plus additional 47ms to sync.
+
+![Physical debugging run](https://github.com/contrapoetra/cdn/blob/main/img/photo_6190252977390994592_y.jpg?raw=true)
